@@ -118,14 +118,3 @@ sees a message that contain the word "fuck"
         end
       end
     end
-
-- - -
-
-## Disclaimer ##
-
-This code was hacked together in a weekend where I needed something to
-code in order to practice my Ruby coding skills. I haven't put much
-thought into the code architecture and as I am still on the path to move
-from PHP to Ruby, it might not be the most beautiful Ruby code you have
-ever seen, but please don't hesitate to give me advice on improvements
-or more *Ruby*-like ways of doing stuff! :)
